@@ -1,6 +1,6 @@
 # React + Vite
 
-So, using vite we created the react app, first run the following commands
+Using vite we created the react app, first run the following commands
 
 > cd frontend
 
