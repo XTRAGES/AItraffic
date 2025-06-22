@@ -81,9 +81,6 @@ This project aims to leverage AI to analyze and predict traffic patterns, optimi
 
 This project is licensed under a **Proprietary License**.
 
-It is intended for **personal use, educational purposes, and portfolio demonstration only**.  
-**Commercial use, distribution, modification, or resale is strictly prohibited without explicit written permission from the author.**
-
 See the [LICENSE](./LICENSE) file for full license details.
 
 ## Sales Pitch 📢
