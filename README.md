@@ -1,6 +1,6 @@
-# 🤖 AI Traffic
+# AI Traffic 🤖
 
-## 🚦 Overview
+## Overview 🚦
 
 ### ☰ Table of Contents
 - [Overview](#overview)
@@ -14,7 +14,7 @@
 
 This project aims to leverage AI to analyze and predict traffic patterns, optimize bus routes, and improve overall traffic flow. It utilizes machine learning models to forecast traffic congestion and provide insights for better urban planning and transportation management.
 
-## ⚙️ Requirements
+## Requirements ⚙️
 
 - Python 3.13.3 or higher (https://www.python.org/downloads/)
 - Google Maps API (https://developers.google.com/maps)
@@ -23,7 +23,7 @@ This project aims to leverage AI to analyze and predict traffic patterns, optimi
   - scikit-learn
   - googlemaps
 
-## 🛠️ Installation
+## Installation 🛠️
 
 1.  Clone the repository:
 
@@ -42,7 +42,7 @@ This project aims to leverage AI to analyze and predict traffic patterns, optimi
     export GOOGLE_MAPS_API_KEY="YOUR_API_KEY"
     ```
 
-## ▶️ Usage
+## Usage ▶️
 
 1.  Prepare the data:
     - Ensure the `bus_trips.csv` file is in the project directory.
@@ -69,7 +69,7 @@ This project aims to leverage AI to analyze and predict traffic patterns, optimi
     - Navigate to the `frontend` directory.
     - Open `index.html` in your browser or run a local server.
 
-## ✨ Key Features
+## Key Features ✨
 
 -   **Traffic Prediction:** Uses machine learning models to predict traffic congestion.
 -   **Route Optimization:** Optimizes bus routes based on predicted traffic patterns.
@@ -77,7 +77,7 @@ This project aims to leverage AI to analyze and predict traffic patterns, optimi
 -   **Frontend Visualization:** Visualizes traffic data and optimized routes.
 
 
-## 📝 License
+## License 📝
 
 This project is licensed under a **Proprietary License**.
 
@@ -86,7 +86,7 @@ It is intended for **personal use, educational purposes, and portfolio demonstra
 
 See the [LICENSE](./LICENSE) file for full license details.
 
-## 📢 Sales Pitch
+## Sales Pitch 📢
 
 For questions and support, contact: aldinzendeli33@gmail.com
 
