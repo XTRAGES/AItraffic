@@ -3,13 +3,13 @@
 ## 🚦 Overview
 
 ### ☰ Table of Contents
-- [Overview](#overview)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Key Features](#key-features)
-- [License](#license)
-- [Sales Pitch](#sales-pitch)
+- [Overview](#🚦-overview)
+- [Requirements](#⚙️-requirements)
+- [Installation](#🛠️-installation)
+- [Usage](#▶️-usage)
+- [Key Features](#✨-key-features)
+- [License](#📝-license)
+- [Sales Pitch](#📢-sales-pitch)
 
 
 This project aims to leverage AI to analyze and predict traffic patterns, optimize bus routes, and improve overall traffic flow. It utilizes machine learning models to forecast traffic congestion and provide insights for better urban planning and transportation management.
